@@ -6,6 +6,7 @@
  */
 
 void print_line(int n)
+
 {
 	int a = 0;
 
